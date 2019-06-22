@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:5:5-18:19
+	android:supportsRtl
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:10:9-40
+activity#mooc.vandy.java4android.shapes.ui.MainActivity
+ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:11:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from E:\m3-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
